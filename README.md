@@ -1,4 +1,4 @@
-# Awesome JavaScript [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome JavaScript [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![DOI](https://zenodo.org/badge/1031052753.svg)](https://doi.org/10.5281/zenodo.19680471)  
 [![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) &nbsp; 
@@ -110,9 +110,9 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Related Awesome Lists
 
-- **[Awesome Node.js](https://github.com/awesomelistsio/awesome-nodejs)** – A curated list of delightful Node.js packages and resources.
-- **[Awesome TypeScript](https://github.com/awesomelistsio/awesome-typescript)** – A collection of awesome TypeScript resources.
-- **[Awesome Web Performance](https://github.com/awesomelistsio/awesome-wpo)** – Resources for web performance optimization.
+- **[Awesome Node.js](https://github.com/brandonhimpfen/awesome-nodejs)** – A curated list of delightful Node.js packages and resources.
+- **[Awesome TypeScript](https://github.com/brandonhimpfen/awesome-typescript)** – A collection of awesome TypeScript resources.
+- **[Awesome Web Performance](https://github.com/brandonhimpfen/awesome-wpo)** – Resources for web performance optimization.
   
 ## Contribute
 
